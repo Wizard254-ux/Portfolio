@@ -12,7 +12,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-row items-center justify-center space-x-2 mb-1">
           <a
-            href="https://github.com/Wizard254-ux"
+            href="https://github.com/Wizard254-ux?tab=repositories"
             rel="noreferrer"
             target="_blank">
             <AiOutlineGithub
