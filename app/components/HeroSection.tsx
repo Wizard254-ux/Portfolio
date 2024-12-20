@@ -19,7 +19,7 @@ const HeroSection = () => {
         </div>
         <div className="md:mt-2 md:w-3/5">
           <h1 className="font-bold text-4xl mt-6 md:text-7xl md:mt-0">
-            Hello, I'm &#39;Kevin Omwoyo!
+            Hello,I'm Kevin Omwoyo!
           </h1>
           <p className="text-lg mt-4 mb-6 md:text-2lx">
             An
