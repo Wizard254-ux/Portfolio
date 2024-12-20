@@ -46,7 +46,7 @@ const HeroSection = () => {
               duration={500}>
               Projects
             </Link>
-            <NextLink
+            {/* <NextLink
               href="https://dribbble.com/rennie_design"
               target="_blank"
               className="text-neutral-100 font-semibold cursor-pointer px-3 md:px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700">
@@ -58,7 +58,7 @@ const HeroSection = () => {
               className="text-neutral-100 font-semibold cursor-pointer px-3 md:px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700">
               My Resume
             </NextLink>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
